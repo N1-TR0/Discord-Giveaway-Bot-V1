@@ -5,7 +5,6 @@
 ## Features
 
 Note: It Works only on => { "discord-giveaways": "^2.4.4"}
-If the number of votes is less than 3 votes, it will appear that there is no winner
 
 $gcreate <time> <winners> <prize>
 $greroll <message.id> 
