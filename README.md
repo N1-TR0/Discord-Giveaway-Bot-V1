@@ -21,18 +21,16 @@ $gend <message.id>
 git clone https://github.com/Nitr0Dev/GiveawayBot
 ```
 
-* Fill configuration (index.js):
-**go to Line 26**
+* Fill configuration (config.json):
+
 ```json
-const giveaways = require("discord-giveaways"),
-settings = {
-    prefix: "!g", // Your Prefix You Want
-    token: ""
-```
-**go to line 161**
-```json
-go to line 161
-client.login("Your BOT Token");
+  
+{
+    "token": "Your BOT Token",
+    "prefix": "g!",
+    "everyoneMention": true,
+    "hostedBy": true
+}
 
 ```
 
