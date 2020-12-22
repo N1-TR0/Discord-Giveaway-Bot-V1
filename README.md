@@ -24,9 +24,9 @@ git clone https://github.com/Nitr0Dev/GiveawayBot
 
 * Fill configuration (index.js):
 ```json
-{
+
 client.login("Your BOT Token");
-}
+
 ```
 
 * Install dependencies:
