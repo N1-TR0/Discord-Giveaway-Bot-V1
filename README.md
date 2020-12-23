@@ -6,10 +6,9 @@
 
 Note: It Works only on => { "discord-giveaways": "^2.4.4"}
 
-$gcreate <time> <winners> <prize>
-$greroll <message.id> 
-$gedit <message.id>  
-$gend <message.id>  
+g!start-giveaway <channel> <time> <winners> <prize>
+g!reroll <message.id>  
+g!end <message.id>  
 
 
 ![enter image description here](https://cdn.discordapp.com/attachments/790688869665996820/790688956491890718/Screenshot_138.png)
