@@ -44,5 +44,5 @@ node index.js
 ```
 * Start For VPS:
 ```sh
-P2M start index.js
+pm2 start index.js
 ```
