@@ -1,4 +1,4 @@
-# 24/7 online Giveaways Bot
+# 24/7 online Giveaways Bot V1
 
 🎁Giveways Bot using the [discord-giveaways](https://npmjs.com/discord-giveaways) package!
 
